@@ -70,32 +70,54 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-###########################################################
-###########################################################
-#       Snow Learn P/S
-######   Menu Items   #########
-### 1 Home
-### 2 About
-### 3 School Map
-### 4 Find Student/Staff
-### 5 Login(Student/Teacher/HeadTeacher/Director/Admin/Bursar)
-### 6 Contact
+# Learn-Desk | Primary School Management Web Platform
 
-####################################################
-### STUDENT MENU(After Login)
-### 1 Dashboard
-### 2 My Class(p.1 - p.7)
-### 3 Subjects
-### 4 Lessons
-### 5 Assignments
-### 6 Quizzes / Tests
-### 7 Results / Progress
-### 8 Bursary / Fees Status
-###     (fees paid, Balance, fees structure, school reqirements)
-### 9 Downloads(Pdfs/notes)
-### 10 Profile
-### 11 Search(Students/Teachers)
-### 12 Logout
+**Learn-Desk** is a complete **Primary School Management System** built with **React**.  
+It is designed to help school administrators, teachers, parents, students, and staff manage all aspects of school operations efficiently, securely, and in real-time.
 
-######################################################
-### 
+---
+
+## Live Demo
+
+View the live frontend (GitHub Pages):
+
+[Learn-Desk Demo](https://tomusangedev.github.io/Learn-Desk/)
+
+Visit my website for more projects and info:  
+[tomusange dev](https://sangelab.unaux.com)
+
+---
+
+## Users
+
+The platform supports multiple user roles:
+
+1. **Admin / Headteacher** – Full access to all system features.  
+2. **Teacher** – Manage classes, students, attendance, exams, and results.  
+3. **Parent** – View child’s performance, attendance, and fees.  
+4. **Student** – Access personal academic information and attendance.  
+5. **Guest** – Limited access for demonstration or public information.  
+6. **Bursar** – Manage fees, payments, and financial records.
+
+---
+
+## Features / Modules
+
+1. **Dashboard** – Overview of the school data and system activity.  
+2. **Students** – Manage student records and profiles.  
+3. **Parents** – Track parent information and communication.  
+4. **Staff** – Manage teachers and other school staff.  
+5. **Classes** – Organize classes and class schedules.  
+6. **Subjects** – Manage subjects and assign teachers.  
+7. **Attendance** – Record and monitor student attendance.  
+8. **Exams** – Create and manage exams and schedules.  
+9. **Results** – Enter and view student results.  
+10. **Fees** – Manage fees, billing, and payments.  
+11. **Reports** – Generate detailed academic and financial reports.  
+12. **Messages** – Internal messaging system for users.  
+13. **Users & Roles** – Assign permissions and manage system users.  
+14. **Settings** – Customize system preferences.  
+15. **Logout** – Securely log out from the system.  
+16. **Payment History** – View past transactions and fee payments.
+
+---
